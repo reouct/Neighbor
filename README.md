@@ -1,9 +1,5 @@
 # Multi-Vehicle Search Take-Home Challenge
 
-## Quick Start (Run Locally)
-
-Spin this API up locally in a couple of minutes.
-
 ## Prerequisites
 
 - Python 3.11+ (developed & tested with CPython 3.13)
