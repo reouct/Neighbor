@@ -90,4 +90,3 @@ Example response:
     "total_price_in_cents": 1005
   }
 ]
----
