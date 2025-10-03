@@ -1,0 +1,58 @@
+[
+  {
+    "id": "L1-A",
+    "location_id": "LOT1",
+    "length": 10,
+    "width": 20,
+    "price_in_cents": 1000
+  },
+  {
+    "id": "L1-B",
+    "location_id": "LOT1",
+    "length": 20,
+    "width": 20,
+    "price_in_cents": 1800
+  },
+  {
+    "id": "L2-A",
+    "location_id": "LOT2",
+    "length": 30,
+    "width": 20,
+    "price_in_cents": 3100
+  },
+  {
+    "id": "L2-B",
+    "location_id": "LOT2",
+    "length": 20,
+    "width": 20,
+    "price_in_cents": 1500
+  },
+  {
+    "id": "L3-A",
+    "location_id": "LOT3",
+    "length": 40,
+    "width": 20,
+    "price_in_cents": 4000
+  },
+  {
+    "id": "L3-B",
+    "location_id": "LOT3",
+    "length": 15,
+    "width": 20,
+    "price_in_cents": 1300
+  },
+  {
+    "id": "L4-A",
+    "location_id": "LOT4",
+    "length": 25,
+    "width": 20,
+    "price_in_cents": 2600
+  },
+  {
+    "id": "L5-A",
+    "location_id": "LOT5",
+    "length": 50,
+    "width": 20,
+    "price_in_cents": 8000
+  }
+]
